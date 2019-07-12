@@ -1,0 +1,66 @@
+body{
+	background-color: rgba(73, 73, 73, 0.486);
+	fill-opacity: initial;
+	/* float: inline-end; */
+}
+.pagecontainer{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+h1{
+	border: 10px 10px 10px 10px solid whitesmoke;
+	color: black;
+	font-family: monospace;
+	font-size: 35px;
+	font-style: italic;
+	font-weight: 900;
+}
+h4{
+	color: black;
+	font-weight: 500;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 20px;
+	font-weight: 900;
+	font-style: italic;
+}
+.jumbotron{
+	background-color: #3157af;
+	padding: 1%;
+	width: 100% !important;
+	margin-left: 0%;
+	margin-right: 0%;
+	border: 10px 10px 10px 10px solid whitesmoke;
+}
+.text-center{
+	filter: drop-shadow(15px 20px 5px rgb(0, 0, 0));
+	font-weight: 700;
+}
+.card-header{
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    filter: brightness(1);
+    background-color: rgba(0, 68, 131, 0.616);
+    text-decoration: underline;
+}
+.card-body{
+	background-color: #FFD8CC;
+	border: 10px 10px 10px 10px solid whitesmoke;
+
+}
+.row{
+	text-align: center;
+	border: 10px 10px 10px 10px solid whitesmoke;
+}
+.deployBox{
+	float: inline-start;
+	margin-right: 10%;
+	border: 10px 10px 10px 10px solid whitesmoke;
+}
+
+.box-sizing{
+	background-color: #FFD8CC;
+}
